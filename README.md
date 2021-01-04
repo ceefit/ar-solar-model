@@ -24,10 +24,6 @@ npm start
 You can view the development server at `<your_ip_address>:10000`.
 
 ### Production build
-Install Surge 
-```bash
-npm i -g surge
-```
 
 ```bash
 npm run build
